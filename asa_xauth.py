@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 asa_xauth
-This application will create a group of objects on an Cisco ASA Firewall using
-the ASA-REST-API interface
 """
 
 import requests
